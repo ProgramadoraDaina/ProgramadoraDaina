@@ -31,7 +31,7 @@
 
 - ☁️ I'm interested in learning all about **Machine Learning**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/640563375390064670) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [ThePrincessDaina](https://discordapp.com/users/640563375390064670) my username!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -77,7 +77,7 @@
 <!--technologies i know-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,github,html,java,js,md,mongodb,mysql,py,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
