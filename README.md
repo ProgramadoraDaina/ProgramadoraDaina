@@ -77,7 +77,7 @@
 <!--technologies i know-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,github,html,java,js,md,mongodb,mysql,py,vscode,blender&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,github,html,java,js,mysql,py,vscode,blender&perline=14" />
   </a>
 </p>
 
