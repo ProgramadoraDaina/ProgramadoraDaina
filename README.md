@@ -32,12 +32,9 @@
 <table align="center">
 <tr border="none">
 <td width="100%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ProgramadoraDaina&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgramadoraDaina&theme=radical&hide_border=false" /> 
-   <br/><br/>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadoraDaina&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=Abhaya%20Libre&preferLogin=false">
+    <img  alt="ProgramadoraDaina's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ProgramadoraDaina?cardType=level&theme=radical&fontFamily=Abhaya%20Libre&preferLogin=false" />
+  </a>
   </td>
 </tr>
 </table>
